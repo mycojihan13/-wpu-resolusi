@@ -3,3 +3,4 @@ RENCANA KONTEN WPU
 - PHP 
 - vlog
 - interview
+- struktur data
