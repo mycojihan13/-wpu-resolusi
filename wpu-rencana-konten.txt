@@ -3,6 +3,7 @@ RENCANA KONTEN WPU
 *framework javascript
 - PHP 
 - vlog
+*mengedit video
 - interview
 - struktur data
 merevisi
